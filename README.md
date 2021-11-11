@@ -2,8 +2,8 @@
 认识设计模式，并提供每一种设计模式的示例与类图
 
 - 创建型
-    - [单例模式](src/creational/singleton/Singleton.md)
-    - [简单工厂模式](src/creational/simple_factory/SimpleFactory.md)
+    - [单例模式](src/creational/singleton/README.md)
+    - [简单工厂模式](src/creational/simple_factory/README.md)
     - 工厂方法模式
     - 抽象工厂模式
     - 建造者模式
