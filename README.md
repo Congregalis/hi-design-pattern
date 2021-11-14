@@ -4,7 +4,7 @@
 - 创建型
     - [单例模式](src/creational/singleton)
     - [简单工厂模式](src/creational/simple_factory)
-    - 工厂方法模式
+    - [工厂方法模式](src/creational/factory)
     - 抽象工厂模式
     - 建造者模式
     - 原型模式
