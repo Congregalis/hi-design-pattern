@@ -1,7 +1,6 @@
 package creational.factory;
 
-public class Test {
-
+public class Client {
 
     public static void main(String[] args) {
         Factory factory1 = new ConcreteFactory1();
