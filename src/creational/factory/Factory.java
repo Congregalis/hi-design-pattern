@@ -4,7 +4,7 @@ public abstract class Factory {
 
     public abstract Product createProduct();
 
-    public void sellProduct() {
-        // do sell
+    public void sell(Product product) {
+        System.out.println(product.getClass().getName() + " is sold.");
     }
 }

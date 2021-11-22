@@ -11,5 +11,7 @@ public class Client {
 
         product1.print();
         product2.print();
+        factory1.sell(product1);
+        factory2.sell(product2);
     }
 }
